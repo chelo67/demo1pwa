@@ -1,3 +1,4 @@
+// compartir en redes sociales
 const openModal = document.querySelector('.boton_compartir');
 const modal = document.querySelector('.modal');
 const closeModal = document.querySelector('.modal_close');
